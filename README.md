@@ -23,10 +23,19 @@
 襴蔽戮貲艀舅I肅肄肆槿f蝓Ⅷ 　 緲$慚I穐,疊穐　 甯萪碾f鋗輜靠f誹臧鋩f褂跫詹i雋  
 鋐篆f瘧蜑筴裔罩罧I緜孵蓼Ⅷ　 i鷆嫩槞i歉皸鱚　 冑縡諛諺彙溘嵳勠尠錣綴麼辨螢
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukadeshinigami\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=calm) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukadeshinigami\&layout=compact&theme=calm)
+<div align="center">
+<table>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; border-radius: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=mukadeshinigami&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=calm" alt="GitHub Stats" />
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; border-radius: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukadeshinigami&layout=compact&theme=calm" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-
-
+</div>
 
 ## 🛠️ Technologies
 
