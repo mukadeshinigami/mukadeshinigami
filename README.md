@@ -21,3 +21,45 @@
 頬i鞏褂f跫詹雋髢i曷迯瓲軌霤 　 ,緲蔭穐 Ⅶ穐 　 讎椈i棘貅f斐犀耋f絎絲觚f覃黹黍  
 襴蔽戮貲艀舅I肅肄肆槿f蝓Ⅷ 　 緲$慚I穐,疊穐　 甯萪碾f鋗輜靠f誹臧鋩f褂跫詹i雋  
 鋐篆f瘧蜑筴裔罩罧I緜孵蓼Ⅷ　 i鷆嫩槞i歉皸鱚　 冑縡諛諺彙溘嵳勠尠錣綴麼辨螢
+
+# 📊 GitHub Statistics
+
+## 🏆 Profile Overview
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_title=true)
+
+## 🔥 Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
+
+## 📊 Detailed Metrics
+
+| Metric | Count |
+|--------|-------|
+| **Public Repositories** | ![](https://img.shields.io/badge/Repositories-XX-blue) |
+| **Total Stars** | ![](https://img.shields.io/badge/Stars-XX-yellow) |
+| **Total Forks** | ![](https://img.shields.io/badge/Forks-XX-green) |
+| **Contributions (1 year)** | ![](https://img.shields.io/badge/Contributions-XX-orange) |
+
+## 🛠️ Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📫 How to reach me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+
+---
+
+*Last Updated: 🕐 $(date)*
