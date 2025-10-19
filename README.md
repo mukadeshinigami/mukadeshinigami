@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukadeshinigami\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=calm)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukadeshinigami&theme=calm)](https://git.io/streak-stats)  
+ 
 鑓塵幗膂蓿f寥寢膃暠瘉甅甃槊槎f碣綮瘋聟碯颱亦尓㍍i:i:i;;:;:: : :  
 澣幗嶌塹傴嫩榛畝皋i袍耘蚌紕欒儼巓襴踟篁f罵f亦尓㍍i:i:i;;:;:: : :  
 漲蔭甃縟諛f麭窶膩I嶮薤篝爰曷樔黎㌢´　　｀ⅷ踟亦尓㍍i:i:i;;:;:: : :  
@@ -24,7 +24,8 @@
 襴蔽戮貲艀舅I肅肄肆槿f蝓Ⅷ 　 緲$慚I穐,疊穐　 甯萪碾f鋗輜靠f誹臧鋩f褂跫詹i雋  
 鋐篆f瘧蜑筴裔罩罧I緜孵蓼Ⅷ　 i鷆嫩槞i歉皸鱚　 冑縡諛諺彙溘嵳勠尠錣綴麼辨螢
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukadeshinigami&layout=compact)](https://github.com/mukadeshinigami/github-readme-stats\&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukadeshinigami\&layout=compact&theme=calm)
+ 
 
 
 
