@@ -30,24 +30,11 @@
 ![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
 ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
 
-## 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_title=true)
-
-## 🔥 Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
-
-## 📊 Detailed Metrics
-
-| Metric | Count |
-|--------|-------|
-| **Public Repositories** | ![](https://img.shields.io/badge/Repositories-XX-blue) |
-| **Total Stars** | ![](https://img.shields.io/badge/Stars-XX-yellow) |
-| **Total Forks** | ![](https://img.shields.io/badge/Forks-XX-green) |
-| **Contributions (1 year)** | ![](https://img.shields.io/badge/Contributions-XX-orange) |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
 
 ## 🛠️ Technologies
 
