@@ -45,14 +45,13 @@
  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="25">
  <img src="https://img.shields.io/badge/Alembic-00A0DC?style=for-the-badge&logo=alembic&logoColor=white" height="25">
-
+<img src="https://img.shields.io/badge/bs4-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
 ## 📫 How to reach me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukade.official@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mukadeshinigami)
 
 ---
-![bs4](https://img.shields.io/badge/bs4-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 - <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"> **PostgreSQL**
