@@ -38,9 +38,13 @@
 </div>
 
 ## 🛠️ Technologies
+⠀![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+⠀![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+⠀<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="25">
+ <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
+ <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="25">
+ <img src="https://img.shields.io/badge/Alembic-00A0DC?style=for-the-badge&logo=alembic&logoColor=white" height="25">
 
 ## 📫 How to reach me
 
@@ -50,3 +54,29 @@
 ---
 
 *Last Updated: 🕐 $(date)*
+
+## 🛠️ Технологии
+
+
+<!--
+- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"> **PostgreSQL**
+
+### Web & Parsing
+- <img src="https://img.shields.io/badge/Beautiful_Soup-4AA94B?style=for-the-badge&logo=beautifulsoup&logoColor=white" height="25"> **Beautiful Soup 4**
+- <img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"> **Requests**
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> **HTML Parsing**
+
+### Telegram Bot
+- <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"> **Aiogram 3.x**
+- <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"> **Telegram Bot API**
+
+### Development & Tools
+- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"> **Docker**
+- <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="25"> **Pytest**
+- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"> **Git**
+- <img src="https://img.shields.io/badge/UVicorn-00B0A7?style=for-the-badge&logo=uvicorn&logoColor=white" height="25"> **Uvicorn**
+
+### Data Science (Аналитика)
+- <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25"> **Pandas**
+- <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="25"> **NumPy**
+- <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"> **Scikit-learn**
