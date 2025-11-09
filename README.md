@@ -30,7 +30,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=mukadeshinigami&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=calm" alt="GitHub Stats" />
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; border-radius: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukadeshinigami&layout=compact&theme=calm" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukadeshinigami&layout=compact&theme=calm&v=1690000000" alt="Top languages">
     </td>
   </tr>
 </table>
