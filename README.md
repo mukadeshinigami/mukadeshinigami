@@ -54,6 +54,7 @@
 ⠀![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
 ⠀![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ⠀![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+⠀![Rust](https://img.shields.io/badge/Rust-FF7F0E?style=for-the-badge&logo=rust&logoColor=white)
 ## 📫 How to reach me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukade.official@gmail.com)
