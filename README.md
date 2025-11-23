@@ -30,7 +30,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=mukadeshinigami&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=calm" alt="GitHub Stats" />
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; border-radius: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukadeshinigami&layout=compact&theme=calm&v=1690000000" alt="Top languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukadeshinigami&layout=compact&theme=calm&v=169000000" alt="Top languages">
     </td>
   </tr>
 </table>
@@ -46,7 +46,7 @@
 ⠀<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="25">
 ⠀<img src="https://img.shields.io/badge/Alembic-00A0DC?style=for-the-badge&logo=alembic&logoColor=white" height="25">
 ⠀<img src="https://img.shields.io/badge/bs4-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-## 🌟 Learning
+## 🌟 Learning plan
 ⠀![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ⠀![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ⠀![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
