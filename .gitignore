@@ -1,0 +1,6 @@
+/.env
+.env.*
+# Local editor folders
+.vscode/
+# OS files
+.DS_Store
