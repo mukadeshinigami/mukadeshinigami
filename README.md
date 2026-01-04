@@ -46,16 +46,21 @@ Other        47 mins         -------------------------   01.98 %
 ⠀![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ⠀![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ⠀![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+⠀![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+⠀![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+⠀![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ⠀<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="25">
 ⠀<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
 ⠀<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="25">
 ⠀<img src="https://img.shields.io/badge/Alembic-00A0DC?style=for-the-badge&logo=alembic&logoColor=white" height="25">
 ⠀<img src="https://img.shields.io/badge/bs4-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-## 🌟 Learning plan
 
-⠀![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-⠀![Rust](https://img.shields.io/badge/Rust-FF7F0E?style=for-the-badge&logo=rust&logoColor=white)
+## 🌟 Learning plan
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-FF7F0E?style=for-the-badge&logo=rust&logoColor=white)
+
+
 ## 📫 How to reach me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukade.official@gmail.com)
