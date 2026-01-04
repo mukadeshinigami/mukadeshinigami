@@ -55,9 +55,6 @@ Other        47 mins         -------------------------   01.98 %
 ## 🌟 Learning plan
 
 ⠀![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-⠀![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
-⠀![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-⠀![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ⠀![Rust](https://img.shields.io/badge/Rust-FF7F0E?style=for-the-badge&logo=rust&logoColor=white)
 ## 📫 How to reach me
 
