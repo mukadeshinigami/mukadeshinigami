@@ -59,6 +59,7 @@ Other        48 mins         -------------------------   01.82 %
 ## 🌟 Learning plan
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-FF7F0E?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 
 ## 📫 How to reach me
