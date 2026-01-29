@@ -42,7 +42,6 @@ Other        52 mins         -------------------------   01.65 %
 <!--END_SECTION:waka-->
 
 ## 🛠️ Technologies
-⠀![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ⠀![Rust](https://img.shields.io/badge/Rust-FF7F0E?style=for-the-badge&logo=rust&logoColor=white)
 ⠀![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ⠀![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,6 +51,7 @@ Other        52 mins         -------------------------   01.65 %
 ⠀![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ⠀![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ⠀![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+⠀![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ⠀<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="25">
 ⠀<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
