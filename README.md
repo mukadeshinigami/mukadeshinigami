@@ -26,17 +26,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 December 2025 - To: 04 February 2026
+From: 07 December 2025 - To: 05 February 2026
 
-Total Time: 62 hrs 59 mins
+Total Time: 65 hrs 51 mins
 
-TypeScript    21 hrs 47 mins  >>>>>>>>>----------------   34.11 %
-C             17 hrs 18 mins  >>>>>>>------------------   27.08 %
-SCSS          7 hrs 2 mins    >>>----------------------   11.03 %
-Python        4 hrs 5 mins    >>-----------------------   06.39 %
-Markdown      3 hrs 55 mins   >>-----------------------   06.14 %
-Bash          1 hr 33 mins    >------------------------   02.45 %
-Other         53 mins         -------------------------   01.40 %
+TypeScript    22 hrs 1 min    >>>>>>>>-----------------   32.99 %
+C             17 hrs 29 mins  >>>>>>>------------------   26.19 %
+SCSS          7 hrs 2 mins    >>>----------------------   10.56 %
+Python        5 hrs 46 mins   >>-----------------------   08.66 %
+Markdown      3 hrs 55 mins   >------------------------   05.88 %
+Bash          1 hr 33 mins    >------------------------   02.34 %
+Other         54 mins         -------------------------   01.35 %
 ```
 
 <!--END_SECTION:waka-->
