@@ -67,4 +67,4 @@ Other         1 hr 30 mins    >------------------------   02.04 %
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukade.official@gmail.com)
 ⠀[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mukadeshinigami)
----
+--- 
