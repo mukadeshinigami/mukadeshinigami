@@ -25,20 +25,6 @@
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 07 December 2025 - To: 13 February 2026
-
-Total Time: 75 hrs 19 mins
-
-TypeScript    22 hrs 39 mins  >>>>>>>------------------   29.49 %
-C             20 hrs 38 mins  >>>>>>>------------------   26.86 %
-Python        8 hrs 13 mins   >>>----------------------   10.71 %
-SCSS          7 hrs 2 mins    >>-----------------------   09.17 %
-Markdown      5 hrs 39 mins   >>-----------------------   07.37 %
-Bash          1 hr 53 mins    >------------------------   02.45 %
-Other         1 hr 30 mins    -------------------------   01.97 %
-```
-
 <!--END_SECTION:waka-->
 
 ## 🛠️ Technologies
